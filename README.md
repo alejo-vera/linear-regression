@@ -6,5 +6,5 @@ Con estas variables queremos predecir "Yearly Amount Spent", que es la variable 
 Utilicé el modelo de regresión Lineal de SKlearn, así como el train_test_split para comparar los resultados.
 También utilicé distintos gráicos para ir haciendo un rápido análisis
 
-##Resultados
+## Resultados
 Llegamos a un modelo con un bajo grado de error medio absoluto, con los residuales que se asemejan a una distribución normal 
